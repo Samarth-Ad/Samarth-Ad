@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML and data science
 - 🌱 I’m currently a beginner learning Python and DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me samarthad@gmail.com
+- 📫 How to reach me samarthad950@gmail.com
 
 
 
